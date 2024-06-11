@@ -1,6 +1,6 @@
 ### Olá, eu sou a Williane!
 
-- 💻 Business Analyst com mais de quatro anos de atuação;
+- 💻 Analista de dados com mais de quatro anos de atuação;
 - 🎓 Formada em Engenharia de Produção pela Universidade Federal da Paraíba e atualmente cursando pós-graduação em Ciência de Dados e Big Data na PUC Minas;
 - 📊 Experiência nas áreas de planejamento e inteligência comercial, com desenvolvimento de projetos utilizando as ferramentas de Power BI, SQL, Tableau e estatística;
 - 💡Possuo um perfil analítico e investigativo, e busco sempre compreender os dados, identificar padrões, tendências e oportunidades, com o propósito transformá-los em insights estratégicos que auxiliem a tomada de decisão.
